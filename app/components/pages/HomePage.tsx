@@ -22,6 +22,7 @@ const HomePage = () => {
   return (
     <>
     <div>MAY BAGO</div>
+    <button className="btn bg-sky-500">Accent</button>
     {/* <div>{JSON.stringify(movies)}</div> */}
 
     {/* <form className="m-5 p-2 bg-base-200 card shadow-xl w-[50%]">
