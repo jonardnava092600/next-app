@@ -17,7 +17,7 @@ const HomePage = () => {
 
   return (
     <>
-    <div>HOME</div>
+    <div>HAHAHHAHA</div>
     <div>{JSON.stringify(movies)}</div>
     </>
   )
