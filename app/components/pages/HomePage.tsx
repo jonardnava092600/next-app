@@ -21,8 +21,8 @@ const HomePage = () => {
 
   return (
     <>
-    <div>Home</div>
-    <div>{JSON.stringify(movies)}</div>
+    <div>MAY BAGO</div>
+    {/* <div>{JSON.stringify(movies)}</div> */}
 
     {/* <form className="m-5 p-2 bg-base-200 card shadow-xl w-[50%]">
       <fieldset className="fieldset">
