@@ -1,0 +1,20 @@
+.siteHeader {
+    grid-area: header;
+    background-color: red;
+}
+
+.siteMain {
+    grid-area: main;
+    background-color: orange;
+}
+
+.siteAside {
+    grid-area: aside;
+    
+    background-color: green;
+}
+
+.siteFooter {
+    grid-area: footer;
+    background-color: blue;
+}
